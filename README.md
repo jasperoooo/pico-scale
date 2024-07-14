@@ -1,7 +1,7 @@
 # pico-scale
 0.1g scale with a Raspberry Pi Pico, using a load cell with HX711 breakout board.
 
-![pico-scale-assembly]([pico-scale-assemply.png](https://github.com/jasperoooo/pico-scale/blob/3df552fed116ff25a376a91107afae5891a14b49/pico-scale-assembly.png))
+![pico-scale-assembly](https://github.com/jasperoooo/pico-scale/blob/3df552fed116ff25a376a91107afae5891a14b49/pico-scale-assembly.png)
 
 ## Libraries
 For this project, I used the Adafruit SSD1306 library and Lopy's HX711 library.
